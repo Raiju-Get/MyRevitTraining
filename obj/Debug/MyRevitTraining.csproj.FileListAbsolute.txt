@@ -1,0 +1,7 @@
+D:\JP\MyRevitTraining\obj\Debug\MyRevitTraining.csproj.AssemblyReference.cache
+D:\JP\MyRevitTraining\obj\Debug\MyRevitTraining.csproj.CoreCompileInputs.cache
+D:\JP\MyRevitTraining\bin\Debug\MyRevitTraining.dll
+D:\JP\MyRevitTraining\bin\Debug\MyRevitTraining.pdb
+D:\JP\MyRevitTraining\obj\Debug\MyRevitTraining.dll
+D:\JP\MyRevitTraining\obj\Debug\MyRevitTraining.pdb
+D:\JP\MyRevitTraining\bin\Debug\MyRevitTraining.addin

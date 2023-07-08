@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.GetElementById</FullClassName>
+		<Text>GetElementById</Text>
+		<Description>Get Element ID</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			F8B82749-A609-4512-8FA1-FA2F3F64B038
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.CollectWindows</FullClassName>
+		<Text>CollectWindows</Text>
+		<Description>Count All the windows</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			97CA8D24-8B66-4DF8-ABC6-8417FD18C376
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.DeleteElement</FullClassName>
+		<Text>DeleteElement</Text>
+		<Description>Delete Element</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			FF223E16-9696-4213-AD33-9785FE5EAD4A
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.PlaceFamily</FullClassName>
+		<Text>PlaceFamily</Text>
+		<Description>PlaceFamily</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			327C493D-7A25-4E53-971D-8FA9C6CC9BBE
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.PlaceLineElement</FullClassName>
+		<Text>PlaceLineElement</Text>
+		<Description>PlaceLineElement</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			A5441BA6-90AF-4E4A-9FC7-85E185A430C9
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.PlaceLoopElement</FullClassName>
+		<Text>PlaceLoopElement</Text>
+		<Description>PlaceLoopElement</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			7ACF3CDD-6962-4267-A5C8-FD142BA86DA3
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.GetParameter</FullClassName>
+		<Text>GetParameter</Text>
+		<Description>GetParameter</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			346A6B29-C047-4441-8B3B-26F944F9B78F
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.SetParameter</FullClassName>
+		<Text>SetParameter</Text>
+		<Description>SetParameter</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			30B127DE-7ECE-4053-A0BC-CB715F0CC8F7
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.ChangeLocation</FullClassName>
+		<Text>ChangeLocation</Text>
+		<Description>ChangeLocation</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			87EF28B3-D0E3-45C5-965D-AB2DCC469790
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.EditElement</FullClassName>
+		<Text>EditElement</Text>
+		<Description>EditElement</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			8B6B84DB-6B6C-4AE7-894A-4EF094343035
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.SelectGeometry</FullClassName>
+		<Text>SelectGeometry</Text>
+		<Description>SelectGeometry</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			0BECF627-D0A6-48C5-BD26-2A17145FE789
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.ElementIntersections</FullClassName>
+		<Text>ElementIntersections</Text>
+		<Description>ElementIntersections</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			A0FD8C84-8733-440F-96F6-E1D884F1D1FD
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.ProjectRay</FullClassName>
+		<Text>ProjectRay</Text>
+		<Description>ProjectRay</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			F5A1837B-7E74-408D-B6E7-F56BFC4B3A69
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.PlanView</FullClassName>
+		<Text>PlanView</Text>
+		<Description>PlanView</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			6CE5BAD7-F886-46B7-B24B-A490321FBEE2
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.ViewFilter</FullClassName>
+		<Text>ViewFilter</Text>
+		<Description>ViewFilter</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			F873DA66-23CA-4045-8D60-2607D347F7C6
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.TagView</FullClassName>
+		<Text>TagView</Text>
+		<Description>TagView</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			D60B32BF-7B97-47F8-AABB-C047C1212803
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.CreateSheets</FullClassName>
+		<Text>CreateSheets</Text>
+		<Description>CreateSheets</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			3673D09A-45B6-4A61-87E1-B45490947C12
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitTraining</Name>
+		<FullClassName>MyRevitTraining.PlaceView</FullClassName>
+		<Text>PlaceView</Text>
+		<Description>PlaceView</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			69A2B8FF-D46C-4B2B-A171-3A419BFB9488
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Application Plugin</Name>
+		<FullClassName>MyRevitTraining.ExternalApplication</FullClassName>
+		<Text>ExternalApplication</Text>
+		<Description>ExternalApplication</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			7B4D15A5-62A0-4ED3-AB94-BAD815EB99D7
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+	<AddIn Type="DBApplication">
+		<Name>Application Plugin</Name>
+		<FullClassName>MyRevitTraining.ExternalDBApplication</FullClassName>
+		<Text>ExternalDBApplication</Text>
+		<Description>ExternalDBApplication</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<Assembly>MyRevitTraining.dll</Assembly>
+		<AddInId>
+			EF80AC84-03CA-4D98-BBB9-508402AC8AE2
+		</AddInId>
+		<VendorId>Abhishek</VendorId>
+		<VendorDescription>@Raiju</VendorDescription>
+	</AddIn>
+</RevitAddIns>
+
