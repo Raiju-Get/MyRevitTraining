@@ -1065,7 +1065,7 @@ Note: The code assumes that a `Transaction` object named `transaction` has been 
 
 ## Revit Geometry
 
-![[Pasted image 20230705124548.png]]
+
 Here's the explanation in bullet points:
 
 - The Revit API offers various geometry types, including XYZ objects, lines, and arcs.
@@ -1248,9 +1248,7 @@ Sure! Here's an explanation of the code snippet in bullet points, assuming no pr
 In summary, this code snippet allows the user to select an element in a Revit project, projects a ray from a specific point in the project, finds the nearest intersection with a roof element, calculates the distance between the starting point and the intersection point, and displays the distance in a dialog box.
 
 ## Views in Revit
-![[Pasted image 20230708141308.png]]
-![[Pasted image 20230708141326.png]]
-![[Pasted image 20230708141345.png]]
+
 - The Revit API offers various methods for displaying and annotating elements, such as creating views, tagging elements, and generating sheets.
 - Views in the Revit API inherit from the View class and include View3D, ViewDrafting, ViewPlan, ViewSection, and ViewSheet.
 - Different types of views serve specific purposes: 3D views for visualizing the model, drafting views for creating 2D details, plan views for horizontal sections, section views for vertical sections, and sheet views for organizing multiple views on a sheet.
@@ -1635,10 +1633,6 @@ In summary, this code places a view ("First View") onto a sheet ("First Sheet") 
 
 ## External Application Plugins
 
-![[Pasted image 20230708190105.png]]
-![[Pasted image 20230708190147.png]]
-![[Pasted image 20230708190231.png]]
-![[Pasted image 20230708190311.png]]
 
 
 - In this section, we are introduced to the concept of external applications in Revit, which provide a way to create commands that execute based on events or as part of a custom user interface.
@@ -1756,7 +1750,7 @@ tags:
 
 ## Adding Icons to the button
 
-![[Pasted image 20230708193946.png]]
+
 
 - Go to assembly
 - Search "Presentation core"
@@ -1813,7 +1807,6 @@ This approach allows for the customization of the Revit UI by creating a new tab
 
 ## Adding Icons to the button
 
-![[Pasted image 20230708193946.png]]
 
 - Go to assembly
 - Search "Presentation core"
